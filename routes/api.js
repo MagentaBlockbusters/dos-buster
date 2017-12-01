@@ -4,7 +4,33 @@ var mylogger = require('../logging');
 
 
 
-router.route('/send').put(function(req,res){
+router.route('/sendHttp').put(function(req,res){
+    //iota get sender adress count # Access
+})
+
+
+router.route('/sendIota').put(function(req,res){
+    //iota get sender adress count # Access
+})
+
+
+router.route('/openChannel').put(function(req,res){
+    //iota get sender adress count # Access
+})
+
+router.route('/closeChannel').put(function(req,res){
+    //iota get sender adress count # Access
+})
+
+router.route('/createCertificate').put(function(req,res){
+    //iota get sender adress count # Access
+})
+
+router.route('/sendCertificate').put(function(req,res){
+    //iota get sender adress count # Access
+})
+
+router.route('/getAddress').put(function(req,res){
     //iota get sender adress count # Access
 })
 
