@@ -1,0 +1,275 @@
+{"level":"info","message":"booting","timestamp":"2017-09-28T18:34:28.253Z"}
+{"level":"info","message":"booting","timestamp":"2017-09-28T18:44:58.205Z"}
+{"level":"info","message":"booting","timestamp":"2017-09-28T18:46:36.297Z"}
+{"level":"info","message":"booting","timestamp":"2017-09-28T19:00:02.340Z"}
+{"level":"info","message":"booting","timestamp":"2017-09-28T19:09:11.998Z"}
+{"level":"info","message":"booting","timestamp":"2017-09-28T19:13:52.313Z"}
+{"level":"info","message":"booting","timestamp":"2017-09-28T19:47:14.540Z"}
+{"level":"info","message":"booting","timestamp":"2017-09-28T19:49:46.542Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T19:50:10.758Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T19:52:56.309Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-09-28T19:52:56.339Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:10:02.667Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-09-28T20:10:02.707Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:23:42.107Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-09-28T20:23:42.147Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:24:37.590Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-09-28T20:24:37.633Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:28:11.160Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-09-28T20:28:11.200Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:29:19.105Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-09-28T20:29:19.146Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:31:48.993Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:33:44.692Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:40:59.396Z"}
+{"level":"debug","message":"booting","timestamp":"2017-09-28T20:42:43.337Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:06:58.689Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:09:40.147Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:09:40.277Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:11:34.054Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:11:34.186Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:12:13.514Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:12:13.644Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:16:27.838Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:16:27.965Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:16:58.694Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:16:58.816Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:18:52.789Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:18:52.920Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:20:44.168Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:20:44.282Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:23:14.033Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:23:14.162Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:24:34.369Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:24:34.522Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:25:57.207Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:25:57.334Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:28:15.691Z"}
+{"level":"debug","message":"Server listening on port 4000","timestamp":"2017-10-02T13:28:15.821Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:28:37.812Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:29:32.891Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:34:00.047Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:39:02.847Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:47:47.675Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:49:57.071Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:51:05.874Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T13:56:13.789Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:04:10.191Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:05:04.840Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:10:51.009Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:12:36.447Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:13:19.136Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:15:20.342Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:16:50.371Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:17:59.045Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:20:40.934Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:23:10.338Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:24:27.844Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:33:08.341Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:37:52.321Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:39:07.052Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:40:47.508Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:47:08.711Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:47:32.801Z"}
+{"level":"debug","message":"","timestamp":"2017-10-02T14:47:32.977Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T14:48:02.188Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T17:59:05.723Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-02T17:59:25.737Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T18:02:02.750Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-02T18:02:05.875Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-02T18:02:12.633Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-02T18:02:16.767Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-02T18:02:19.957Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-02T20:46:29.119Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-02T20:49:14.148Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:13:47.092Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:14:06.501Z"}
+{"level":"debug","message":"req: 1","timestamp":"2017-10-08T14:14:35.735Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:16:53.944Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:16:53.948Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:16:53.952Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:17:12.639Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:17:12.640Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:17:12.641Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:17:16.919Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:19:56.269Z"}
+{"level":"debug","message":"req: 1","timestamp":"2017-10-08T14:20:25.541Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:20:50.088Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:20:50.090Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:20:50.091Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:20:56.733Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:23:07.449Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:23:51.140Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:23:51.153Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:23:51.155Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:24:23.466Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:24:23.469Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:24:23.471Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:24:41.264Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:24:57.652Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:24:57.653Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:24:57.654Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:25:08.548Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:26:24.009Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:26:24.012Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:26:24.189Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:26:58.116Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:26:58.117Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:26:58.119Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:28:32.608Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:28:32.610Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:28:32.611Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:28:56.034Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:32:18.950Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:32:18.952Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:32:18.953Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:32:36.514Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:32:43.533Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:36:29.947Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:36:53.782Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:36:53.794Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:36:53.797Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:37:03.582Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:39:40.551Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:40:16.662Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:40:16.671Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:40:16.673Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:41:27.089Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:42:27.592Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:43:30.291Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:46:22.392Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:46:42.386Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:46:42.401Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:46:42.403Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:47:10.790Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:49:51.983Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:50:20.169Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:50:20.177Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:50:20.179Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T14:50:42.794Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T14:53:22.490Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:53:37.667Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:54:11.227Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:54:11.230Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:54:11.231Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T14:57:08.256Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T14:57:08.257Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T14:57:08.259Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T15:24:49.917Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:26:32.116Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:26:32.141Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:26:32.146Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T15:27:04.361Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T15:27:30.910Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:28:19.825Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:28:19.854Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:28:19.859Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:28:22.091Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:28:51.652Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:28:51.656Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:29:35.845Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:29:35.848Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:29:35.852Z"}
+{"level":"debug","message":"req: [object Object]","timestamp":"2017-10-08T15:30:36.557Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T15:33:03.977Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:33:31.581Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:33:31.614Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:33:31.619Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T15:34:51.712Z"}
+{"level":"debug","message":"req: undefined","timestamp":"2017-10-08T15:35:16.712Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:35:56.337Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:35:56.345Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:35:56.355Z"}
+{"level":"debug","message":"req: undefined","timestamp":"2017-10-08T15:36:17.433Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:37:53.661Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:42:11.849Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:42:11.853Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:42:11.856Z"}
+{"level":"debug","message":"req: undefined","timestamp":"2017-10-08T15:45:15.372Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:46:00.173Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:48:44.103Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:48:44.107Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:48:44.126Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T15:49:59.606Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:50:47.922Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:50:47.947Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:50:47.951Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:52:23.589Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:52:23.600Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:52:23.609Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T15:53:40.465Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:54:21.873Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:54:21.899Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:54:21.905Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:56:15.874Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:56:15.904Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:56:15.920Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:57:02.249Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:57:02.253Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:57:02.257Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T15:59:41.442Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T15:59:41.446Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T15:59:41.449Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-08T16:00:38.695Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:02:02.749Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:02:02.774Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:02:02.779Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:06:14.425Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:06:14.613Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:06:14.633Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:06:56.983Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:06:56.985Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:06:56.987Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:08:17.678Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:08:17.680Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:08:17.682Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:11:34.350Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:11:34.353Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:11:34.356Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:13:06.755Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:13:06.760Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:13:06.765Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:18:49.944Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:18:49.945Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:18:49.946Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:20:17.114Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:20:17.119Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:20:17.124Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-08T16:24:08.481Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-08T16:24:08.483Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-08T16:24:08.484Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-17T18:49:44.873Z"}
+{"level":"debug","message":"req: 1","timestamp":"2017-10-17T19:05:15.038Z"}
+{"level":"debug","message":"req: 0001","timestamp":"2017-10-17T19:05:29.565Z"}
+{"level":"debug","message":"req: 0002","timestamp":"2017-10-17T19:05:29.581Z"}
+{"level":"debug","message":"req: 0003","timestamp":"2017-10-17T19:05:29.583Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-17T19:20:10.249Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-17T19:31:16.113Z"}
+{"level":"debug","message":"booting","timestamp":"2017-10-17T19:34:43.072Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:18:23.144Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:18:41.969Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:20:00.692Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:22:22.864Z"}
+{"level":"debug","message":"","timestamp":"2017-12-01T17:23:36.076Z"}
+{"level":"debug","message":"","timestamp":"2017-12-01T17:24:14.410Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:24:39.279Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:25:47.079Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:26:28.513Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T17:37:53.015Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:01:43.131Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:03:40.125Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:04:58.025Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:07:14.072Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:08:26.648Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:08:33.809Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:09:07.297Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T18:29:15.718Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:29:15.721Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T18:40:32.315Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:40:32.317Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T18:41:12.491Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:41:12.493Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T18:42:29.302Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T18:42:29.304Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T19:40:31.956Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T19:40:31.958Z"}
