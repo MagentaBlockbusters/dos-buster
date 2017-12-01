@@ -5,33 +5,52 @@ var mylogger = require('../logging');
 
 
 router.route('/sendHttp').put(function(req,res){
+    mylogger.debug('sendHTTP called');
+    var body = req.body   
+    return res.json(body);  
+
+
     //iota get sender adress count # Access
 })
 
 
 router.route('/sendIota').put(function(req,res){
+    mylogger.debug('sendIota called');
     //iota get sender adress count # Access
+    var body = req.body   
+    return res.json(body);  
+  
 })
 
 
 router.route('/openChannel').put(function(req,res){
-    //iota get sender adress count # Access
+    //iota get sender adress count # 
+    var body = req.body   
+    return res.json(body);  
 })
 
 router.route('/closeChannel').put(function(req,res){
     //iota get sender adress count # Access
+    var body = req.body   
+    return res.json(body);  
 })
 
 router.route('/createCertificate').put(function(req,res){
     //iota get sender adress count # Access
+    var body = req.body   
+    return res.json(body);  
 })
 
 router.route('/sendCertificate').put(function(req,res){
     //iota get sender adress count # Access
+    var body = req.body   
+    return res.json(body);  
 })
 
 router.route('/getAddress').put(function(req,res){
     //iota get sender adress count # Access
+    var body = req.body   
+    return res.json(body);  
 })
 
 

@@ -273,3 +273,20 @@
 {"level":"debug","message":"booting","timestamp":"2017-12-01T18:42:29.304Z"}
 {"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T19:40:31.956Z"}
 {"level":"debug","message":"booting","timestamp":"2017-12-01T19:40:31.958Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T23:10:44.003Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T23:10:44.013Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T23:13:22.348Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T23:13:22.351Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:13:31.563Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-01T23:14:47.219Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-01T23:14:47.222Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:14:47.685Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:14:47.940Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:14:48.858Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:14:49.368Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:14:49.692Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:04.362Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:12.568Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:13.553Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:35.084Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:40.276Z"}

@@ -24,7 +24,7 @@ iota.api.getNodeInfo(function(error, success) {
     if (error) {
         console.error(error);
     } else {
-        console.log(success);
+        mylogger.debug(success);
     }
 })
 
@@ -50,13 +50,13 @@ var address = new Address()
     .finalize();
 
 
-console.log("MULTISIG ADDRESS: ", address);
+mylogger.debug("MULTISIG ADDRESS: ", address);
 
 // Simple validation if the multisig was created correctly
 // Can be called by each cosigner independently
 var isValid = iota.multisig.validateAddress(address, [digestOne, digestTwo]);
 
-console.log("IS VALID MULTISIG ADDRESS:", isValid);
+mylogger.debug("IS VALID MULTISIG ADDRESS:", isValid);
 
 
 //  SIGNING EXAMPLE
@@ -118,7 +118,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 
-//app.use('/api', api);
+app.use('/api', api);
 
 // error handlers
 
