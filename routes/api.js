@@ -3,6 +3,7 @@ var router = express.Router();
 var mylogger = require('../logging');
 var counter = require('../models/counter');
 var IOTA = require('iota.lib.js');
+var ChannelHandler = require('../models/ioataChannelHandler');
 
 var iota = new IOTA({
     'provider'  : 'http://localhost:14265',
@@ -10,6 +11,8 @@ var iota = new IOTA({
     'token'     : 'EXAMPLE-TOKEN-HERE'
 });
 
+
+var channelHandler = new ChannelHandler();
 
 iota.api.getNodeInfo(function(error, success) {
     if (error) {
@@ -50,8 +53,11 @@ router.route('/sendIota').put(function(req,res){
 
 
 router.route('/openChannel').put(function(req,res){
-    //iota get sender adress count # 
+     
     var body = req.body   
+
+
+
     return res.json(body);  
 })
 
@@ -62,7 +68,7 @@ router.route('/closeChannel').put(function(req,res){
 })
 
 router.route('/createCertificate').put(function(req,res){
-    //iota get sender adress count # Access
+    
     var body = req.body   
     return res.json(body);  
 })
