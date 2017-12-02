@@ -32,7 +32,7 @@ return this.requests.length < 3
 }
 
 getNumberOfReq(){
-    return this.requests.length+1
+    return this.requests.length
 }
 
 }
