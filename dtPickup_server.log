@@ -290,3 +290,47 @@
 {"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:13.553Z"}
 {"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:35.084Z"}
 {"level":"debug","message":"sendHTTP called","timestamp":"2017-12-01T23:15:40.276Z"}
+{"level":"debug","message":"MULTISIG ADDRESS:  JYQOVXIR9GDQMWXBYVZW9FYVQJWXLCXXCYJHOYRVW9NKBNZEVYITXXSRFANMIUNOSVEGUMETUZC9EAPOX","timestamp":"2017-12-02T09:20:34.535Z"}
+{"level":"debug","message":"IS VALID MULTISIG ADDRESS: true","timestamp":"2017-12-02T09:20:34.543Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-02T09:20:38.632Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-02T09:20:38.632Z"}
+{"appName":"IRI","appVersion":"1.4.1.2","jreAvailableProcessors":4,"jreFreeMemory":633295544,"jreVersion":"1.8.0_112","jreMaxMemory":1784152064,"jreTotalMemory":789053440,"latestMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestMilestoneIndex":243000,"latestSolidSubtangleMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestSolidSubtangleMilestoneIndex":243000,"neighbors":0,"packetsQueueSize":0,"time":1512206439150,"tips":0,"transactionsToRequest":0,"duration":45,"level":"debug","message":"","timestamp":"2017-12-02T09:20:39.220Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:20:45.170Z"}
+{"level":"debug","message":"MULTISIG ADDRESS:  JYQOVXIR9GDQMWXBYVZW9FYVQJWXLCXXCYJHOYRVW9NKBNZEVYITXXSRFANMIUNOSVEGUMETUZC9EAPOX","timestamp":"2017-12-02T09:24:04.304Z"}
+{"level":"debug","message":"IS VALID MULTISIG ADDRESS: true","timestamp":"2017-12-02T09:24:04.311Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-02T09:24:08.098Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-02T09:24:08.098Z"}
+{"appName":"IRI","appVersion":"1.4.1.2","jreAvailableProcessors":4,"jreFreeMemory":619233776,"jreVersion":"1.8.0_112","jreMaxMemory":1784152064,"jreTotalMemory":789053440,"latestMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestMilestoneIndex":243000,"latestSolidSubtangleMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestSolidSubtangleMilestoneIndex":243000,"neighbors":0,"packetsQueueSize":0,"time":1512206648142,"tips":0,"transactionsToRequest":0,"duration":0,"level":"debug","message":"","timestamp":"2017-12-02T09:24:08.152Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:24:22.350Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:29:24.121Z"}
+{"level":"debug","message":"MULTISIG ADDRESS:  JYQOVXIR9GDQMWXBYVZW9FYVQJWXLCXXCYJHOYRVW9NKBNZEVYITXXSRFANMIUNOSVEGUMETUZC9EAPOX","timestamp":"2017-12-02T09:32:14.551Z"}
+{"level":"debug","message":"IS VALID MULTISIG ADDRESS: true","timestamp":"2017-12-02T09:32:14.558Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-02T09:32:18.619Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-02T09:32:18.619Z"}
+{"appName":"IRI","appVersion":"1.4.1.2","jreAvailableProcessors":4,"jreFreeMemory":611500728,"jreVersion":"1.8.0_112","jreMaxMemory":1784152064,"jreTotalMemory":789053440,"latestMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestMilestoneIndex":243000,"latestSolidSubtangleMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestSolidSubtangleMilestoneIndex":243000,"neighbors":0,"packetsQueueSize":0,"time":1512207138664,"tips":0,"transactionsToRequest":0,"duration":1,"level":"debug","message":"","timestamp":"2017-12-02T09:32:18.676Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:32:28.989Z"}
+{"level":"debug","message":"MULTISIG ADDRESS:  JYQOVXIR9GDQMWXBYVZW9FYVQJWXLCXXCYJHOYRVW9NKBNZEVYITXXSRFANMIUNOSVEGUMETUZC9EAPOX","timestamp":"2017-12-02T09:34:06.593Z"}
+{"level":"debug","message":"IS VALID MULTISIG ADDRESS: true","timestamp":"2017-12-02T09:34:06.601Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-02T09:34:11.186Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-02T09:34:11.187Z"}
+{"appName":"IRI","appVersion":"1.4.1.2","jreAvailableProcessors":4,"jreFreeMemory":610095456,"jreVersion":"1.8.0_112","jreMaxMemory":1784152064,"jreTotalMemory":789053440,"latestMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestMilestoneIndex":243000,"latestSolidSubtangleMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestSolidSubtangleMilestoneIndex":243000,"neighbors":0,"packetsQueueSize":0,"time":1512207251272,"tips":0,"transactionsToRequest":0,"duration":1,"level":"debug","message":"","timestamp":"2017-12-02T09:34:11.284Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:35:51.413Z"}
+{"level":"debug","message":"MULTISIG ADDRESS:  JYQOVXIR9GDQMWXBYVZW9FYVQJWXLCXXCYJHOYRVW9NKBNZEVYITXXSRFANMIUNOSVEGUMETUZC9EAPOX","timestamp":"2017-12-02T09:38:21.974Z"}
+{"level":"debug","message":"IS VALID MULTISIG ADDRESS: true","timestamp":"2017-12-02T09:38:21.982Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-02T09:38:26.205Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-02T09:38:26.205Z"}
+{"appName":"IRI","appVersion":"1.4.1.2","jreAvailableProcessors":4,"jreFreeMemory":608690184,"jreVersion":"1.8.0_112","jreMaxMemory":1784152064,"jreTotalMemory":789053440,"latestMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestMilestoneIndex":243000,"latestSolidSubtangleMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestSolidSubtangleMilestoneIndex":243000,"neighbors":0,"packetsQueueSize":0,"time":1512207506249,"tips":0,"transactionsToRequest":0,"duration":0,"level":"debug","message":"","timestamp":"2017-12-02T09:38:26.261Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:39:41.650Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:39:42.900Z"}
+{"level":"debug","message":"MULTISIG ADDRESS:  JYQOVXIR9GDQMWXBYVZW9FYVQJWXLCXXCYJHOYRVW9NKBNZEVYITXXSRFANMIUNOSVEGUMETUZC9EAPOX","timestamp":"2017-12-02T09:43:23.424Z"}
+{"level":"debug","message":"IS VALID MULTISIG ADDRESS: true","timestamp":"2017-12-02T09:43:23.431Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-02T09:43:28.169Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-02T09:43:28.169Z"}
+{"appName":"IRI","appVersion":"1.4.1.2","jreAvailableProcessors":4,"jreFreeMemory":607284912,"jreVersion":"1.8.0_112","jreMaxMemory":1784152064,"jreTotalMemory":789053440,"latestMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestMilestoneIndex":243000,"latestSolidSubtangleMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestSolidSubtangleMilestoneIndex":243000,"neighbors":0,"packetsQueueSize":0,"time":1512207808250,"tips":0,"transactionsToRequest":0,"duration":0,"level":"debug","message":"","timestamp":"2017-12-02T09:43:28.260Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:43:48.367Z"}
+{"level":"debug","message":"MULTISIG ADDRESS:  JYQOVXIR9GDQMWXBYVZW9FYVQJWXLCXXCYJHOYRVW9NKBNZEVYITXXSRFANMIUNOSVEGUMETUZC9EAPOX","timestamp":"2017-12-02T09:44:57.250Z"}
+{"level":"debug","message":"IS VALID MULTISIG ADDRESS: true","timestamp":"2017-12-02T09:44:57.257Z"}
+{"level":"debug","message":"IS VALID SIGNATURE:  true","timestamp":"2017-12-02T09:45:00.818Z"}
+{"level":"debug","message":"booting","timestamp":"2017-12-02T09:45:00.818Z"}
+{"appName":"IRI","appVersion":"1.4.1.2","jreAvailableProcessors":4,"jreFreeMemory":605879640,"jreVersion":"1.8.0_112","jreMaxMemory":1784152064,"jreTotalMemory":789053440,"latestMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestMilestoneIndex":243000,"latestSolidSubtangleMilestone":"999999999999999999999999999999999999999999999999999999999999999999999999999999999","latestSolidSubtangleMilestoneIndex":243000,"neighbors":0,"packetsQueueSize":0,"time":1512207900862,"tips":0,"transactionsToRequest":0,"duration":1,"level":"debug","message":"","timestamp":"2017-12-02T09:45:00.870Z"}
+{"level":"debug","message":"sendHTTP called","timestamp":"2017-12-02T09:45:36.251Z"}
