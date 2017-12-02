@@ -45,7 +45,7 @@ router.route('/getStake').put(function(req,res){
         var address=body.address;
         return res.json(counter.getNumberOfReq()*100);  
     }else{
-        return res.json('You are flooding! Keeping stake of ' + counter.getNumberOfReq()*100);
+        return res.json({'stakingAmount':counter.getNumberOfReq()*100,'message':'You are flooding! Keeping stake of'}) ;
     }
 
     //iota get sender adress count # Access
