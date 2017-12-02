@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var mylogger = require('../logging');
+var counter = require('../models/counter');
 var IOTA = require('iota.lib.js');
 
 var iota = new IOTA({
@@ -10,12 +11,22 @@ var iota = new IOTA({
 });
 
 
+iota.api.getNodeInfo(function(error, success) {
+    if (error) {
+        console.error(error);
+    } else {
+        mylogger.debug(success);
+    }
+})
+
 router.route('/sendHttp').put(function(req,res){
+    counter.count(req,res);
     mylogger.debug('sendHTTP called');
     var body = req.body   
-   
-    var message=body;
+    var message = body.message
+    var address=body.senderAddress;
     
+        
         console.log(message);
         var messageStringified = JSON.stringify(message);
         console.log(messageStringified);
@@ -63,6 +74,7 @@ router.route('/sendCertificate').put(function(req,res){
 })
 
 router.route('/getAddress').put(function(req,res){
+    if(counter.count(req,res)){
     //iota get sender adress count # Access
     var body = req.body   
     var seed = body.seed
@@ -83,7 +95,9 @@ router.route('/getAddress').put(function(req,res){
 //        mylogger.debug("address alive?: ", address)
       
         
-
+} else {
+    return res.status(500).send('You are flooding!');
+}
       
 })
 

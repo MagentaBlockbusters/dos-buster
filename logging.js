@@ -10,7 +10,7 @@ var logger = new (winston.Logger)({
 
     new (winston.transports.Console)({'timestamp':true}),
 
-    new (winston.transports.File)({ filename: 'dtPickup_server.log' })
+    new (winston.transports.File)({ filename: 'dos-buster.log' })
 
   ]
 
