@@ -31,7 +31,7 @@ router.route('/sendHttp').put(function(req,res){
         var address=body.address;
         return res.json("Connection Valid");  
     }else{
-        return res.send('You are flooding! Keeping stake of ' + counter.getNumberOfReq()*100);
+        return res.json('You are flooding! Keeping stake of ' + counter.getNumberOfReq()*100);
     }
 
     //iota get sender adress count # Access
@@ -45,7 +45,7 @@ router.route('/getStake').put(function(req,res){
         var address=body.address;
         return res.json(counter.getNumberOfReq()*100);  
     }else{
-        return res.send('You are flooding! Keeping stake of ' + counter.getNumberOfReq()*100);
+        return res.json('You are flooding! Keeping stake of ' + counter.getNumberOfReq()*100);
     }
 
     //iota get sender adress count # Access
