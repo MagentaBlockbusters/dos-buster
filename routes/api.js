@@ -66,33 +66,26 @@ router.route('/getAddress').put(function(req,res){
     //iota get sender adress count # Access
     var body = req.body   
     var seed = body.seed
+    var myaddress
 
     
         // Deterministically generates a new address for the specified seed with a checksum
         iota.api.getNewAddress( seed, { 'checksum': true }, function( e, address ) {
             if (!e) {
                 mylogger.debug("Generated new address: ", address)
-                address = address
+                return res.json(address);
             } else {
                 mylogger.debug("Something went wrong: ", e);
+                
             }
         })
-      
-      
 
-    return res.json(address);  
+//        mylogger.debug("address alive?: ", address)
+      
+        
+
+      
 })
 
-
-
-router.route('/profiles/:id')
-    .get(function(req, res){
-        res.body = {id:"1"};
-
-    });
-router.route('/profiles')
-.get(function(req, res){
-
-});
 
 module.exports = router;
