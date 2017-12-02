@@ -4,6 +4,7 @@ var mylogger = require('../logging');
 var counter = require('../models/counter');
 var IOTA = require('iota.lib.js');
 var ChannelHandler = require('../models/ioataChannelHandler');
+var Flash = require('../models/flashModel');
 
 var iota = new IOTA({
     'provider'  : 'http://localhost:14265',
@@ -23,21 +24,15 @@ iota.api.getNodeInfo(function(error, success) {
 })
 
 router.route('/sendHttp').put(function(req,res){
-    counter.count(req,res);
-    mylogger.debug('sendHTTP called');
-    var body = req.body   
-    var message = body.message
-    var address=body.senderAddress;
-    
-        
-        console.log(message);
-        var messageStringified = JSON.stringify(message);
-        console.log(messageStringified);
-        // Convert the string to trytes
-        messageTrytes = iota.utils.toTrytes(messageStringified);
-
-    return res.json(messageTrytes);  
-
+    if(counter.count(req,res)){
+        mylogger.debug('sendHTTP called');
+        var body = req.body   
+        var message = body.message
+        var address=body.address;
+        return res.json("Connection Valid");  
+    }else{
+        return res.status(500).send('You are flooding!');
+    }
 
     //iota get sender adress count # Access
 })
@@ -47,15 +42,29 @@ router.route('/sendIota').put(function(req,res){
     mylogger.debug('sendIota called');
     //iota get sender adress count # Access
     var body = req.body   
+    var message = body.message
+    var address=body.address;
+
     return res.json(body);  
   
 })
 
 
 router.route('/openChannel').put(function(req,res){
-     
-    var body = req.body   
+    
 
+    var body = req.body
+    flash = new Flash(
+        body.userIndex,
+        body.userSeed,
+        body.index,
+        body.security,
+        body.depth,
+        body.bundles,
+        body.partialDigets,
+        body.flash
+    )   
+    channelHandler.openChannel(flash);
 
 
     return res.json(body);  
@@ -64,6 +73,7 @@ router.route('/openChannel').put(function(req,res){
 router.route('/closeChannel').put(function(req,res){
     //iota get sender adress count # Access
     var body = req.body   
+    channelHandler.closeChannel();
     return res.json(body);  
 })
 

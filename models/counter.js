@@ -26,7 +26,7 @@ count(req, res) {
     }
    
 
-return this.requests.length < 10
+return this.requests.length < 3
 
     
 }

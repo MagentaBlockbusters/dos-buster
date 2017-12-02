@@ -8,15 +8,34 @@ var iotaFlash = ('iotaledger/iota.flash.js');
 module.exports = class IOTAChannelHandler {
 
     constructor(){
-
+        mylogger.debug("constructor called")
+        this.state = "initial";
+        
     }
 
-    openChannel(){
-
+    openChannel(flash){
+        var multisig = iotaFlash.multisig;
+        if(this.state != "open"){
+            this.state = "open"
+            mylogger.debug("opening Channel")
+            return true;
+        } else {
+            mylogger.debug("channel already opened");
+            return false;
+        }
     }
+
+    
 
     closeChannel(){
-
+        if(this.state != "closed"){
+            this.state = "closed"
+            mylogger.debug("closing Channel")
+            return true;
+        } else {
+            mylogger.debug("closed");
+            return false;
+        }
     }
 }
 
