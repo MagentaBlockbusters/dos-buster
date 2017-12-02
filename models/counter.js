@@ -31,6 +31,10 @@ return this.requests.length < 3
     
 }
 
+getNumberOfReq(){
+    return this.requests.length
+}
+
 }
 
 var counter = new Counter();

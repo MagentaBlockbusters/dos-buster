@@ -37,6 +37,20 @@ router.route('/sendHttp').put(function(req,res){
     //iota get sender adress count # Access
 })
 
+router.route('/getStake').put(function(req,res){
+    if(counter.count(req,res)){
+        mylogger.debug('getStake called');
+        var body = req.body   
+        var message = body.message
+        var address=body.address;
+        return res.json(counter.getNumberOfReq()*100);  
+    }else{
+        return res.status(500).send('You are flooding!');
+    }
+
+    //iota get sender adress count # Access
+})
+
 
 router.route('/sendIota').put(function(req,res){
     mylogger.debug('sendIota called');
@@ -64,10 +78,14 @@ router.route('/openChannel').put(function(req,res){
         body.partialDigets,
         body.flash
     )   
-    channelHandler.openChannel(flash);
+    if(channelHandler.openChannel(flash)){
+        return res.json("Channel opened successfully");  
+    }else{
+        return res.json("Channel is already open");
+    }
 
 
-    return res.json(body);  
+    
 })
 
 router.route('/closeChannel').put(function(req,res){

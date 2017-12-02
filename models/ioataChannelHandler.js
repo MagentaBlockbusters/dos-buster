@@ -15,12 +15,15 @@ module.exports = class IOTAChannelHandler {
 
     openChannel(flash){
         var multisig = iotaFlash.multisig;
+        if(typeof iotaFlash === 'undefined'){
+            mylogger.debug("iotaFlash is undifined");
+        }
         if(this.state != "open"){
             this.state = "open"
             mylogger.debug("opening Channel")
             return true;
         } else {
-            mylogger.debug("channel already opened");
+            mylogger.debug("channel already open");
             return false;
         }
     }
